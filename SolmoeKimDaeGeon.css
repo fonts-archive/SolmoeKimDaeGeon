@@ -1,0 +1,20 @@
+@font-face {
+  font-family: 'Solmoe KimDaeGeon';
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Light.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Light.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Light.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Light.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'Solmoe KimDaeGeon';
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Medium.woff2') format('woff2'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Medium.woff') format('woff'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Medium.otf') format('opentype'),
+      url('https://cdn.jsdelivr.net/gh/fonts-archive/SolmoeKimDaeGeon/SolmoeKimDaeGeon-Medium.ttf') format('truetype');
+}
